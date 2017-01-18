@@ -87,5 +87,11 @@ p, h1, h2, h3, h4, h5, li {
 
 .content img {
 	margin-top:30px;
-	margin-bottom:60px;
+	margin-bottom:30px;
+}
+
+.footer {
+	padding: 50px 0px 50px;
+	background-color:rgb(21,46,92);
+	color:white;
 }
