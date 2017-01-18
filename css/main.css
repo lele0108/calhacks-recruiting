@@ -1,0 +1,90 @@
+p, h1, h2, h3, h4, h5, li {
+  font-family: "proxima-nova",sans-serif;
+}
+
+.blue {
+	background-color:rgba(21,46,92,0.85);
+	padding: 50px 0px 200px 0px;
+}
+
+.header {
+	color:white;
+	background: url('/img/team.jpg') no-repeat bottom fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.header h1 {
+	font-weight:300;
+	line-height:65px;
+	font-size: 40px;
+}
+
+.header h2 {
+	font-weight:700;
+}
+
+.header p {
+	font-weight:500;
+	margin-top:30px;
+}
+
+.header a {
+	color:white;
+}
+
+.header a:hover {
+	border-bottom: 3px solid white;
+	text-decoration:none;
+}
+
+.title {
+	margin-top:150px;
+}
+
+.content {
+	margin-top:50px;
+	margin-bottom:100px;
+}
+
+.content h1 {
+	font-weight:400;
+	line-height:65px;
+	font-size:30px;
+	margin-top:30px;
+	color:rgb(250,170,54)
+}
+
+.roles p {
+	font-size:16px !important;
+}
+
+.content p {
+	color:rgb(28, 36, 37);
+	font-size:20px;
+	line-height:40px;
+	margin-bottom:30px;
+}
+
+.content h3 {
+	font-size:20px;
+	font-weight:700;
+}
+
+.schedule p {
+	margin-bottom:10px;
+}
+
+.content h4 {
+	margin-top:20px;
+	font-size:16px;
+	font-weight:600;
+	color:rgb(21,46,92);
+}
+
+.content img {
+	margin-top:30px;
+	margin-bottom:60px;
+}
