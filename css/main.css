@@ -9,7 +9,7 @@ p, h1, h2, h3, h4, h5, li {
 
 .header {
 	color:white;
-	background: url('/img/team.jpg') no-repeat bottom fixed; 
+	background: url('../img/team.jpg') no-repeat bottom fixed; 
   	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
